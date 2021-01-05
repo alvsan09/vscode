@@ -431,7 +431,7 @@
     },
     "devDependencies": {
         "@types/node": "^12.19.9",
-        "emmet": "github:rzhao271/emmet#1b2df677d8925ef5ea6da9df8845968403979a0a"
+        "emmet": "https://github.com/rzhao271/emmet.git#1b2df677d8925ef5ea6da9df8845968403979a0a"
     },
     "dependencies": {
         "@emmetio/abbreviation": "^2.2.0",
